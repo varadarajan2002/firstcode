@@ -22,7 +22,7 @@ System.out.println(num);}
 else{
     System.out.print("IT is a odd no");
 }
-
+System.out.print("thank you");
     }
 
 }
